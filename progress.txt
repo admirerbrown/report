@@ -2,3 +2,9 @@ enry1..
 today i have tried to redo all my mistakes and am currently try to see if i will 
 be able to redo it. fate favors the brave.
 signed admirer
+hurray/..hurray i have finally mastered how to use the basic workflow of git and github by either initializing able
+local repository or cloning  a remote repository from github.
+finally i can move on to the next chapter in the odin project.
+but i will continue with the book "learn enough git to be dangerous" and "learn enough command line to be dangerous.
+i am very happy.
+signed...
